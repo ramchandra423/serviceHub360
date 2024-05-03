@@ -1,0 +1,16 @@
+.simser-container{
+    display: flex;
+    /* background-color: aqua; */
+    margin-bottom: 5px;
+    /* justify-content:space-between; */
+}
+.simser-img{
+    width: 30%;
+    /* height: 100%; */
+    /* padding-left: 6%; */
+    background-color: aqua;
+}
+.simser-des{
+    width: 70%;
+    padding-left: 6%;
+}

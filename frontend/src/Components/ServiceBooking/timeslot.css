@@ -1,0 +1,15 @@
+#tslot{
+    background-color: aliceblue;
+    width: 30%;
+    margin-bottom: 10px;
+    border: 1px solid rgb(79, 79, 79);
+    color: black;
+}
+.slot-con{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.time-con{
+    width: 40%;
+}

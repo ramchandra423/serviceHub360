@@ -1,0 +1,130 @@
+/* .catagory{
+    
+    height:80px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0.6%;
+    width: 98.8%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.catagory-box{
+    width: 10%;
+    height: 90%;
+    
+}
+.card-cat {
+    height: 90%;
+    width: 8%;
+    
+  }
+  
+  .card-image {
+   
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+
+
+  }
+  
+  .card-image:hover {
+    transform: scale(0.98);
+  }
+  .c-image{
+    height: 95%;
+    object-fit: contain;
+
+    
+    
+  }
+  
+  .heading {
+    height: 20%;
+    font-size: small;
+    font-weight:600;
+    text-align: center;
+    color: rgb(88, 87, 87);
+    
+  }
+  
+  .heading:hover {
+    cursor: pointer;
+  } */
+  
+.main{
+    /* margin: 1%; */
+    /* padding: 2%; */
+    margin-top: 0.4%;
+    background-color: cadetblue;
+    display: flex;
+    margin: 0.6%;
+    width: 98.8%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    
+}
+.div1,.div2{
+    width: 50%;
+    height: max-content;
+    
+}
+#imag{
+    object-fit: cover;
+}
+.div2{
+    display: flex;
+    justify-content: space-around;
+}
+.pt-1 ,.pt-2{
+    width: 48%;
+    height: 900px;
+    background-color: brown;
+}
+
+/* Description Features */
+.apart{
+    margin: 0.6%;
+    width: 98.8%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-color: rgb(255, 255, 255);
+    height:max-content;
+    padding-bottom: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.apt{
+    width: 30%;
+    height: 70%;
+    background-color: rgb(166, 208, 234);
+    border-radius: 4%;
+    align-self: center;
+}
+.features-title{
+    width: 100%;
+    font-size: 30px;
+    color:rgb(21, 21, 22);
+    font-weight: bold;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.ser-logo{
+    text-align: center;
+    padding-top: 5%;
+    /* padding-bottom: 5%; */
+}
+.ser-head{
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(108, 108, 235);
+    text-align: center;
+}
+.ser-des{
+    font-size: large;
+    text-align: center;
+}

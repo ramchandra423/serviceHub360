@@ -1,0 +1,11 @@
+.skbd{
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+}
+.skbdimg{
+    width: 100px;
+    border-radius: 10px;
+
+}
+.skbd2{}

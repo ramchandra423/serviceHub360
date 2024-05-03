@@ -1,0 +1,35 @@
+
+.bkaphead{
+    margin-top: 15px;
+    color: blueviolet;
+    font-size: x-large;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.bkap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+/*     
+    justify-content: space-evenly; */
+}
+.cti-con{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.kt{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.cal-con{
+    width: 50%;
+
+}
+.time-con{
+    width: 50%;
+}

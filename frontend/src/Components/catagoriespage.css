@@ -1,0 +1,21 @@
+.Cs-container{
+    width: 100%;
+    /* background-color: blanchedalmond; */
+    height: max-content;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+    /* background-color: blanchedalmond; */
+}
+.cats-title{
+    /* display: block; */
+    width: 100%;
+    height: 60px;
+    /* background-color: rgb(255, 255, 255); */
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 2%;
+}

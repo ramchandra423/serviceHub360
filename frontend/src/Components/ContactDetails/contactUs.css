@@ -1,0 +1,55 @@
+.contact-us{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0.6%;
+    width: 98.8%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-color:white;
+    height: max-content;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+.heading-contactus{
+    padding-top: 2%;
+    width: 100%;
+    text-align: center;
+}
+span{
+    color: blueviolet;
+}
+.footer-contactus{
+    display: flex;
+    height: max-content;
+}
+.contactus-details{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 3%;
+    padding-bottom: 7%;
+    /* background-color: aqua; */
+}
+.contactus-form{
+    width: 50%;
+}
+.us-detail{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    display: flex;
+    width: 70%;
+}
+.us-text{
+    padding-left: 5%;
+}
+
+.contactus-form{
+    width: 50%;
+}
+.ctus-r1{
+    width: 100%;
+     display: flex; 
+    justify-content:space-between;
+}
+.ctus-r2{
+    width: 100%;
+}
